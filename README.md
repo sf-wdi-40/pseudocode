@@ -49,8 +49,6 @@ END.
 
 *From [Get Creative Today](http://getcreativetoday.com/lessons/pseudo-code-flowcharts/)*
 
-> Instructor Note: Optional - Make this activity interactive by bringing in bread, peanut butter, and jelly. Have one volunteer sit in front of the class, telling this student that they are to take instructions from the class very literally. Then go around the room and have each student provide one line of instruction for the volunteer until the sandwich is complete. Write down each line of instruction the students provide, the pseudocode.
-
 ***Example 2.1:***
 
 ```
@@ -174,9 +172,9 @@ If you feel stuck, feel free to use this syntax:
 
 	```text
 	PROGRAM <ProgramName>:
-	
+
 	<Do Stuff>
-	
+
 	END.
 	```
 
@@ -187,13 +185,13 @@ If you feel stuck, feel free to use this syntax:
 		THEN <Statements>;
 		ELSE <Statements>;
 	ENDIF;
-	
+
 	```
 * Iteration: LOOP
 
 	```
 	WHILE (<Condition>)
-	
+
 	ENDWHILE;
 	```
 
